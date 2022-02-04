@@ -2,6 +2,7 @@
 
 I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Computer Engineer looking forward to learn about Backend development and databases.
 
+Currently:
 - 👔 Working on <a href="https://onebittech.com/">ONEBITTECH</a> as a Junior Backend Engineer.
 - 📚 Learning Clickhouse and Apache Kafka.
 - 🌎 Living in Argentina (GMT -3)
@@ -9,6 +10,7 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Computer Engineer looking fo
 <!---
 - 🔗 LinkedIn: 
 --->
+<br>
 
 ## 🔧 Technologies & Tools with professional experience
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)

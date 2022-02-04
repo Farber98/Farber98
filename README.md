@@ -12,7 +12,7 @@ Currently:
 --->
 <br>
 
-## 🔧 Technologies & Tools with professional experience
+## 🔧 Technologies & Tools with experience
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)

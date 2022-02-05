@@ -1,15 +1,14 @@
 # ☀️️ Hi there,
 
-I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Computer Engineer looking forward to learn about Backend development and databases.
+I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer looking forward to learning about Backend development and databases.
 
 Currently:
 - 👔 Working on <a href="https://onebittech.com/">ONEBITTECH</a> as a Junior Backend Engineer.
 - 📚 Learning Clickhouse and Apache Kafka.
 - 🌎 Living in Argentina (GMT -3)
 - 📫 Reach me: juanfarberjob@gmail.com.
-<!---
-- 🔗 LinkedIn: 
---->
+- 🔗 LinkedIn: https://www.linkedin.com/in/juan-farber/
+
 <br>
 
 ## 🔧 Technologies & Tools with experience

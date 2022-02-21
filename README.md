@@ -12,22 +12,33 @@ Currently:
 <br>
 
 ## 💾 Databases
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=grey)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=grey)
+![](https://img.shields.io/badge/ClickHouse-informational?style=flat&logo=microstrategy&logoColor=yellow&color=grey)
 
 <br>
 
 ## 👾 Programming languages
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&color=grey)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=grey)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey)
+![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey)
+
+<br>
+
+## 📚 Libraries, frameworks and others
+![](https://img.shields.io/badge/Yii2-informational?style=flat&logo=php&color=grey)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey)
 
 <br>
 
 ## 🔧 Other technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&color=grey)
 
 <br>
 

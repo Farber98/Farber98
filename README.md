@@ -4,7 +4,7 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer looking fo
 
 Currently:
 - 👔 Working on <a href="https://onebittech.com/">ONEBITTECH</a> as a Junior Backend Engineer.
-- 📚 Learning Clickhouse and Apache Kafka.
+- 📚 Learning Apache Kafka.
 - 🌎 Living in Argentina (GMT -3)
 - 📫 Reach me: juanfarberjob@gmail.com.
 - 🔗 LinkedIn: https://www.linkedin.com/in/juan-farber/

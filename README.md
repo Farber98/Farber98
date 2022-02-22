@@ -39,7 +39,7 @@ Currently:
 
 ## 🔧 Other technologies
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&color=grey)
-
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&color=grey)
 <br>
 
 ## :bar_chart: Repository stats

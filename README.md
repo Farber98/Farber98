@@ -41,6 +41,7 @@ Currently:
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&color=grey)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&color=grey)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=grey)
+![](https://img.shields.io/badge/KSQL-informational?style=flat&logo=apachekafka&color=grey)
 <br>
 
 ## :bar_chart: Repository stats

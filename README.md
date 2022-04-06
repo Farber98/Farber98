@@ -4,7 +4,7 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to a
 
 Currently:
 - 👔 Working on <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
-- 📚 Learning Apache Kafka and Docker.
+- 📚 Learning Apache Kafka and DynamoDB.
 - 📍 Following Go Roadmap.
 - 🌎 Living in Argentina (GMT -3)
 - 📫 Reach me: juanfarberjob@gmail.com.
@@ -44,6 +44,7 @@ Currently:
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&color=grey)
 ![](https://img.shields.io/badge/KSQL-informational?style=flat&logo=apachekafka&color=grey)
 ![](https://img.shields.io/badge/Swagger-informational?style=flat&logo=swagger&color=grey)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=grey)
 
 <br>
 

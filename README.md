@@ -3,7 +3,7 @@
 I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases and backend development.
 
 Currently:
-- 👔 Working on <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
+- 👔 Working at <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
 - 📚 Learning Apache Kafka and DynamoDB.
 - 📍 Following Go Roadmap.
 - 🌎 Living in Argentina (GMT -3)

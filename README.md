@@ -17,6 +17,7 @@ Currently:
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=grey)
 ![](https://img.shields.io/badge/ClickHouse-informational?style=flat&logo=microstrategy&logoColor=yellow&color=grey)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=grey)
+![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=grey)
 
 <br>
 

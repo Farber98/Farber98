@@ -27,16 +27,17 @@ Currently:
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey)
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey)
 ![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey)
+<!--![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey) -->
+
 
 <br>
 
 ## 📚 Libraries, frameworks and others
 ![](https://img.shields.io/badge/Yii2-informational?style=flat&logo=php&color=grey)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey)
+<!--![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey)-->
 
 <br>
 

@@ -4,7 +4,7 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to a
 
 Currently:
 - 👔 Working at <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
-- 📚 Learning Apache Cassandra.
+- 📚 Learning TDD.
 - 📍 Following Go Roadmap.
 - 🌎 Living in Argentina (GMT -3)
 - 📫 Reach me: juanfarberjob@gmail.com.
@@ -18,6 +18,7 @@ Currently:
 ![](https://img.shields.io/badge/ClickHouse-informational?style=flat&logo=microstrategy&logoColor=yellow&color=grey)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=grey)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=grey)
+![](https://img.shields.io/badge/Cassandra-informational?style=flat&logo=apachecassandra&color=grey)
 
 <br>
 

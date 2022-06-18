@@ -4,7 +4,7 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to a
 
 Currently:
 - 👔 Working at <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
-- 📚 Learning CI/CD.
+- 📚 Learning some AWS.
 - 📍 Following Go Roadmap.
 - 🌎 Living in Argentina (GMT -3)
 - 📫 Reach me: juanfarberjob@gmail.com.

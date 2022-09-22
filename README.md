@@ -4,7 +4,6 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to a
 
 Currently:
 - 👔 Working at <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
-- 📚 Learning some AWS.
 - 📍 Following Go Roadmap.
 - 🌎 Living in Argentina (GMT -3)
 - 📫 Reach me: juanfarberjob@gmail.com.
@@ -16,19 +15,19 @@ Currently:
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=grey)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=grey)
 ![](https://img.shields.io/badge/ClickHouse-informational?style=flat&logo=microstrategy&logoColor=yellow&color=grey)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=grey)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=grey)
-![](https://img.shields.io/badge/Cassandra-informational?style=flat&logo=apachecassandra&color=grey)
+<!--![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=grey) -->
+<!--![](https://img.shields.io/badge/Cassandra-informational?style=flat&logo=apachecassandra&color=grey) -->
 
 <br>
 
 ## 👾 Programming languages
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&color=grey)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=grey)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey)
-![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey) 
+<!--![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey) -->
+<!--![]https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey) -->
+<!--![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey) -->
 <!--![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey) -->
 
 
@@ -36,9 +35,9 @@ Currently:
 
 ## 📚 Libraries, frameworks and others
 ![](https://img.shields.io/badge/Yii2-informational?style=flat&logo=php&color=grey)
-![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey)
-<!--![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey)-->
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey) 
+<!--![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey) -->
+<!--![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey) -->
 
 <br>
 

@@ -5,6 +5,7 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to a
 Currently:
 - 👔 Working at <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
 - 📍 Following Go Roadmap.
+- 📜 Learning Solidity.
 - 🌎 Living in Argentina (GMT -3)
 - 📫 Reach me: juanfarberjob@gmail.com.
 - 🔗 LinkedIn: https://www.linkedin.com/in/juan-farber/

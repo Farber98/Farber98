@@ -25,6 +25,7 @@ Currently:
 ## 👾 Programming languages
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&color=grey)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=grey)
+![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&color=grey)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey) 
 <!--![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey) -->
 <!--![]https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey) -->

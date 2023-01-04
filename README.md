@@ -1,6 +1,6 @@
 # ☀️️ Hi there,
 
-I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases, backend and blockchain development.
+I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases, backend and Web3 development.
 
 Currently:
 - 👔 Working at <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.

@@ -3,17 +3,18 @@
 I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases, backend and Web3 development.
 
 Currently:
-- 👔 Working at <a href="https://onebittech.com/">ONEBITTECH</a> as Backend Engineer.
-- 📍 Following Go Roadmap.
-- 📜 Learning Solidity.
-- 🌎 Living in Argentina (GMT -3)
+- 👔 Working at [Compass](https://www.compass.com/) as Backend Engineer.
+- 🕸️ Deep diving into Web3.
+- 🌎 Living in Argentina (GMT-3)
 - 📫 Reach me: juanfarberjob@gmail.com.
-- 🔗 LinkedIn: https://www.linkedin.com/in/juan-farber/
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/juan-farber/) with me.
 
 <br>
 
 ## 💾 Databases
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=grey)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&color=grey)
+![](https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&color=grey)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=grey)
 ![](https://img.shields.io/badge/ClickHouse-informational?style=flat&logo=microstrategy&logoColor=yellow&color=grey)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=grey)
@@ -26,7 +27,10 @@ Currently:
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&color=grey)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=grey)
 ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&color=grey)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey) 
+![](https://img.shields.io/badge/Yul-informational?style=flat&logo=solidity&color=grey)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=grey)
+![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey)
 <!--![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey) -->
 <!--![]https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey) -->
 <!--![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey) -->
@@ -37,7 +41,9 @@ Currently:
 
 ## 📚 Libraries, frameworks and others
 ![](https://img.shields.io/badge/Yii2-informational?style=flat&logo=php&color=grey)
-![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey) 
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey)
+![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=solidity&color=grey)
+![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=solidity&color=grey) 
 <!--![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey) -->
 <!--![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey) -->
 
@@ -45,6 +51,8 @@ Currently:
 
 ## 🔧 Other technologies
 ![](https://img.shields.io/badge/GNU/Linux-informational?style=flat&logo=linux&color=grey)
+![](https://img.shields.io/badge/macOS-informational?style=flat&logo=macos&color=grey)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&color=grey)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&color=grey)
 ![](https://img.shields.io/badge/KSQL-informational?style=flat&logo=apachekafka&color=grey)
 ![](https://img.shields.io/badge/Swagger-informational?style=flat&logo=swagger&color=grey)

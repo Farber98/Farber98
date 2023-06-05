@@ -2,7 +2,7 @@
 
 I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases, backend and Web3 development.
 
-Currently:
+TL;DR:
 - 👔 Working at [Compass](https://www.compass.com/) as Backend Engineer. If I'm not here, maybe I'm [there](https://github.com/juanfarber-compass) 
 - 🕸️ Deep diving into Web3.
 - 🌎 Living in Argentina (GMT-3)

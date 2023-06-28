@@ -36,7 +36,6 @@ TL;DR:
 <!--![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey) -->
 <!--![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey) -->
 
-
 <br>
 
 ## 📚 Libraries, frameworks and others
@@ -46,6 +45,11 @@ TL;DR:
 ![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=solidity&color=grey) 
 <!--![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey) -->
 <!--![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey) -->
+
+<br>
+
+## 🔗 Blockchains
+![](https://img.shields.io/badge/Ethereum-informational?style=flat&logo=ethereum&color=grey)
 
 <br>
 

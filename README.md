@@ -31,6 +31,7 @@ TL;DR:
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=grey)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=grey)
 ![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey)
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&color=grey)
 <!--![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey) -->
 <!--![]https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey) -->
 <!--![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey) -->
@@ -50,6 +51,7 @@ TL;DR:
 
 ## 🔗 Blockchains
 ![](https://img.shields.io/badge/Ethereum-informational?style=flat&logo=ethereum&color=grey)
+![](https://img.shields.io/badge/Solana-informational?style=flat&logo=rust&color=grey)
 
 <br>
 

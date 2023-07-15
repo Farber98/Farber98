@@ -43,7 +43,8 @@ TL;DR:
 ![](https://img.shields.io/badge/Yii2-informational?style=flat&logo=php&color=grey)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey)
 ![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=solidity&color=grey)
-![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=solidity&color=grey) 
+![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=solidity&color=grey)
+![](https://img.shields.io/badge/Anchor-informational?style=flat&logo=rust&color=grey)
 <!--![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey) -->
 <!--![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey) -->
 

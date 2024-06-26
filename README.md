@@ -3,7 +3,7 @@
 I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases, backend and Web3 development.
 
 TL;DR:
-- 👔 Working at [Compass](https://www.compass.com/) as Backend Engineer. If I'm not here, maybe I'm [there](https://github.com/juanfarber-compass) 
+- 👔 Blockchain Engineer at [Chainlink Labs](https://chainlinklabs.com/). 
 - 🕸️ Deep diving into Web3.
 - 🌎 Living in Argentina (GMT-3)
 - 📫 Reach me: juanfarberjob@gmail.com.

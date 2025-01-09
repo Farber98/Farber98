@@ -10,7 +10,7 @@ TL;DR:
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/juan-farber/) with me.
 
 <br>
-
+<!--
 ## 💾 Databases
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=grey)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&color=grey)
@@ -18,11 +18,12 @@ TL;DR:
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&color=grey)
 ![](https://img.shields.io/badge/ClickHouse-informational?style=flat&logo=microstrategy&logoColor=yellow&color=grey)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=grey)
-<!--![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=grey) -->
-<!--![](https://img.shields.io/badge/Cassandra-informational?style=flat&logo=apachecassandra&color=grey) -->
-
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=grey)
+![](https://img.shields.io/badge/Cassandra-informational?style=flat&logo=apachecassandra&color=grey) 
 <br>
-
+ -->
+ 
+<!--
 ## 👾 Programming languages
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&color=grey)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=grey)
@@ -32,30 +33,33 @@ TL;DR:
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=grey)
 ![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey)
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&color=grey)
-<!--![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey) -->
-<!--![]https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey) -->
-<!--![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey) -->
-<!--![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey) -->
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=grey)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&color=grey) 
+![](https://img.shields.io/badge/Assembly-informational?style=flat&logo=assemblyscript&color=grey) 
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=grey) 
+ <br>
+ -->
 
-<br>
-
+<!--
 ## 📚 Libraries, frameworks and others
 ![](https://img.shields.io/badge/Yii2-informational?style=flat&logo=php&color=grey)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&color=grey)
 ![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=solidity&color=grey)
 ![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=solidity&color=grey)
 ![](https://img.shields.io/badge/Anchor-informational?style=flat&logo=rust&color=grey)
-<!--![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey) -->
-<!--![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey) -->
-
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&color=grey)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&color=grey) 
 <br>
+ -->
 
+<!--
 ## 🔗 Blockchains
 ![](https://img.shields.io/badge/Ethereum-informational?style=flat&logo=ethereum&color=grey)
 ![](https://img.shields.io/badge/Solana-informational?style=flat&logo=rust&color=grey)
-
 <br>
+-->
 
+<!--
 ## 🔧 Other technologies
 ![](https://img.shields.io/badge/GNU/Linux-informational?style=flat&logo=linux&color=grey)
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=macos&color=grey)
@@ -65,9 +69,10 @@ TL;DR:
 ![](https://img.shields.io/badge/Swagger-informational?style=flat&logo=swagger&color=grey)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=grey)
 ![](https://img.shields.io/badge/gRPC-informational?style=flat&logo=goodreads&color=grey)
-
 <br>
+-->
 
+<!--
 ## :bar_chart: Repository stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farber98&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+-->

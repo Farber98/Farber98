@@ -1,7 +1,5 @@
 # ☀️️ Hi there,
 
-I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases, backend and Web3 development.
-
 TL;DR:
 - 👔 Senior Software Engineer at a Stealth Startup.
 - 🔙 Worked at [Chainlink Labs](https://chainlinklabs.com/) and [Compass](https://www.compass.com/).

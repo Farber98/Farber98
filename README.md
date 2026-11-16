@@ -3,8 +3,9 @@
 I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to apply and expand my knowledge. Passionate about databases, backend and Web3 development.
 
 TL;DR:
-- 👔 Blockchain Engineer at [Chainlink Labs](https://chainlinklabs.com/). 
-- 🕸️ Deep diving into Web3.
+- 👔 Senior Software Engineer at a Stealth Startup.
+- 🔙 Worked at [Chainlink Labs](https://chainlinklabs.com/) and [Compass](https://www.compass.com/).
+- 📍 Based in Copenhagen.
 - 📫 Reach me: juanfarberjob@gmail.com.
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/juan-farber/) with me.
 

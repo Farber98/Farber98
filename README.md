@@ -5,7 +5,6 @@ I'm Juan, an 🇦🇷Argentinian-Portuguese🇵🇹 Software Engineer eager to a
 TL;DR:
 - 👔 Blockchain Engineer at [Chainlink Labs](https://chainlinklabs.com/). 
 - 🕸️ Deep diving into Web3.
-- 🌎 Living in Argentina (GMT-3)
 - 📫 Reach me: juanfarberjob@gmail.com.
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/juan-farber/) with me.
 
